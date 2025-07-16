@@ -60,7 +60,7 @@ Lifeboard
 
 1. Clone o repositório:
    ```
-   git clone <URL_DO_REPOSITORIO>
+   git clone <https://github.com/ViniciusCartapatti/Projeto>
    ```
 2. Navegue até o diretório do projeto:
    ```

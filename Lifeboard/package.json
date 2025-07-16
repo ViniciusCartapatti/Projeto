@@ -1,0 +1,40 @@
+{
+  "name": "lifeboard",
+  "version": "1.0.0",
+  "description": "A life dashboard to track daily data such as sleep, mood, goals, finances, water intake, and workouts.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "nextjs",
+    "dashboard",
+    "tailwindcss",
+    "zustand",
+    "chartjs",
+    "clerk"
+  ],
+  "author": "Vinicius Cartapatti",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^2.2.19",
+    "zustand": "^3.5.10",
+    "chart.js": "^3.7.0",
+    "@clerk/nextjs": "^4.27.3",
+    "react-chartjs-2": "^4.3.1",
+    "next-themes": "^0.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "eslint": "^7.32.0",
+    "eslint-config-next": "latest",
+    "postcss": "^8.4.5",
+    "autoprefixer": "^10.4.2"
+  }
+}
